@@ -1,4 +1,4 @@
-#input
+  #input
 elements = int(input("enter nember of elements"))
 user_input = list(map(int, input("Enter numbers separated by space: ").split()))
 #Loop
